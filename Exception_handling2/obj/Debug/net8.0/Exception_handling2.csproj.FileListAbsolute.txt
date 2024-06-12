@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.AssemblyInfo.cs
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\bin\Debug\net8.0\Exception_handling2.exe
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\bin\Debug\net8.0\Exception_handling2.deps.json
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\bin\Debug\net8.0\Exception_handling2.runtimeconfig.json
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\bin\Debug\net8.0\Exception_handling2.dll
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\bin\Debug\net8.0\Exception_handling2.pdb
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.dll
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\refint\Exception_handling2.dll
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.pdb
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\Exception_handling2.genruntimeconfig.cache
+C:\Users\User\source\repos\Exception_handling2\Exception_handling2\obj\Debug\net8.0\ref\Exception_handling2.dll
